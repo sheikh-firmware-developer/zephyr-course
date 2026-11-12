@@ -5,3 +5,9 @@ build_cmake
 # West files
 .west
 deps
+
+#Editor files
+.vscode
+
+# CMake files
+CMakeLists.txt.user
